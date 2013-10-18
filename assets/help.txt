@@ -1,0 +1,9 @@
+ To get a new lotto numbers set, 
+ press "Start" button
+ on a main screen.
+ To set your own parameters, 
+ go to Settings option.
+ You cannot set number
+ of generated numbers grater
+ than a difference between
+ minimal and maximal limits. 

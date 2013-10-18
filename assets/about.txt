@@ -1,0 +1,3 @@
+Lotto Numbers Application
+Developed by Tal Grinberg
+Version: 1.02
